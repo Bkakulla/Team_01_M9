@@ -26,32 +26,32 @@ How to run code:
 4) Run app to emulate on phone emulator
 
 Login/Register Page
-![img.png](LoginRegister.png)
+![img.png](PicturesReadMe/LoginRegister.png)
 
 Home Page
-![img.png](homepage.png)
+![img.png](PicturesReadMe/homepage.png)
 
 Options Page
-![img.png](breakfastoptions.png)
+![img.png](PicturesReadMe/breakfastoptions.png)
 
 Generate meals Page
-![img.png](GenerateMeals.png)
+![img.png](PicturesReadMe/GenerateMeals.png)
 
 Meal Details Page
-![img.png](mealDetails.png)
+![img.png](PicturesReadMe/mealDetails.png)
 
 Side dish Page
-![img.png](sideDish.png)
+![img.png](PicturesReadMe/sideDish.png)
 
 Enter own meal Page
-![img.png](addingMeal.png)
+![img.png](PicturesReadMe/addingMeal.png)
 
 
 View own meal Page
-![img.png](viewMeal.png)
+![img.png](PicturesReadMe/viewMeal.png)
 
 Profile Page
-![img.png](profile.png)
+![img.png](PicturesReadMe/profile.png)
 
 
 
