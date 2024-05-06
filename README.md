@@ -20,7 +20,7 @@ May 5, 2024
 
 How to run code:
 
-1) Download zip folder through git
+1) Download zip folder named MealPlanner-main.zip and extract the MealPlanner app folder
 2) Open folder in Android Studio
 3) Run build
 4) Run app to emulate on phone emulator
